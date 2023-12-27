@@ -1,8 +1,9 @@
 
 
 
-💾 The data
-You source nutrition data from USDA's FoodData Central website -> https://fdc.nal.usda.gov/
+💾 Data Source
+
+The data source for the nutrition data from USDA's FoodData Central website -> https://fdc.nal.usda.gov/
 This data contains the calorie content of 7,793 common foods, as well as their nutritional composition. 
 Each row represents one food item, and nutritional values are based on a 100g serving. 
 
